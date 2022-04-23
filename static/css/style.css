@@ -1,0 +1,149 @@
+form.login_form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    background-color: #ffcc00;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#button1 {
+position: absolute;
+left: 1430px; margin: 0;
+top: 18px;
+}
+
+.text {
+  position: absolute;
+  font-size: 30px;
+  right: 1660px; bottom: 8px;
+  color: #7FFFD4;
+}
+
+.inform {
+  position: absolute;
+  font-size: 24px;
+  right: 500px;
+  font-family: Times New Roman;
+  padding-top: 85px;
+  z-index: 10;
+  color: black
+}
+
+.klee{
+    position: absolute;
+    right: 60px;
+    bottom: -440px;
+}
+#fon_img {
+    position: relative;
+    bottom: -70px;
+    z-index: 5;
+}
+
+#rectangle {
+    position: relative;
+    z-index: 7;
+    width: 1900px;
+    height: 80px;
+    background: #282828;
+    padding: 5px 10px;
+    min-width: 40px;
+    border: 2px solid #fff;
+}
+
+#btn {
+    position: absolute
+    font-size: 28px;
+    left: 50px;
+    bottom: 30px;
+}
+
+#mon{
+    color: cyan;
+    font-family: Arial;
+    font-size: 34px
+}
+
+.txt1{
+    position: absolute;
+    padding-bottom: 5px;
+    padding-left: 300px;
+    padding-right:0px;
+    padding-top:3px;
+    margin:12px;
+    color: black;
+    font-size: 24px;
+    font-family: Times New Roman;
+}
+
+.venti {
+    position: absolute;
+    right: 1550px;
+    bottom: 545px;
+    margin:15px;
+}
+
+#lu{
+    position: relative;
+    padding-top: 460px;
+    color: orange;
+    font-family: Arial;
+    bottom: 100px;
+    font-size: 34px
+}
+
+.txt2{
+    position: absolute;
+    padding-bottom: 500px;
+    padding-left: 0px;
+    padding-right: 400px;
+    padding-top: 10px;
+    margin:12px;
+    color: black;
+    font-size: 24px;
+    font-family: Times New Roman;
+}
+.ded {
+    position: absolute;
+    right: -12px;
+    top: 470px;
+    margin:15px;
+}
+
+#inadzuma{
+    position: relative;
+    padding-top: 560px;
+    color: purple;
+    font-family: Arial;
+    bottom: 100px;
+    font-size: 34px;
+}
+
+.txt3{
+    position: absolute;
+    padding-bottom: 5px;
+    padding-left: 300px;
+    padding-right:0px;
+    padding-top:3px;
+    margin:12px;
+    color: black;
+    font-size: 24px;
+    font-family: Times New Roman;
+}
+
+.baal {
+    position: absolute;
+    right: 1500px;
+    bottom: -425px;
+    margin:15px;
+}
+
+#hm_button{
+    position: absolute;
+    left: 1500px;
+    top: 20px;
+    z-index: 999;
+    font-size: 16;
+}

@@ -1,0 +1,49 @@
+form.login_form {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 450px;
+    background-color: #00FF7F;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+#home_button{
+    position: absolute;
+    left: 1300px;
+    top: 20px;
+}
+
+.torg_txt {
+    position: absolute;
+    left: 700px;
+    font-size: 20px;
+}
+
+#torg_mon{
+    color: cyan;
+    font-size: 24px;
+}
+
+.txt_mon {
+    position: absolute;
+    left: 650px;
+    top: 980px;
+    font-size: 22px;
+}
+
+.foto_torg {
+    position: relative;
+    left: 0px;
+    top: 12px;
+}
+
+#torg_lu{
+    color: orange;
+    font-size: 24px;
+}
+
+#torg_inadzuma{
+    color: purple;
+    font-size: 24px;
+}
